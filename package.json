@@ -1,6 +1,6 @@
 {
   "name": "Threelouette",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Create 3d models from 3 images in the orthogonal planes",
   "dependencies": {
     "pngjs": "^3.4.0"
